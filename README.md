@@ -1,4 +1,4 @@
-# Universal Web Scraper 🦑
+# Product Insight Scraper 🦑
 
 A flexible and powerful web scraping tool that combines browser automation with AI-powered data extraction. This project uses Selenium for browser automation and large language models (LLMs) to intelligently extract structured data from websites.
 
